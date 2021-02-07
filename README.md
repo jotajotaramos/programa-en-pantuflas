@@ -14,10 +14,24 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 **Hitos conseguidos**:
 
-*   Aprender buena práctica: Tell don't ask.
+- Aprender buena práctica: Tell don't ask.
 
 **Próximos hitos**
 
-*  Seguir aprendiendo buenas prácticas.
+- Seguir aprendiendo buenas prácticas.
+
+---
+
+**Fecha**: 04/02/2021
+
+**Humor**: 😊
+
+**Hitos conseguidos**:
+
+- Aprender buena práctica: S en principio S.O.L.I.D.
+
+**Próximos hitos**
+
+- Seguir aprendiendo buenas prácticas.
 
 ---
